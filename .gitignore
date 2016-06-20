@@ -31,3 +31,5 @@ project/boot/
 # intellij idea
 .idea
 
+out/
+project/project/
